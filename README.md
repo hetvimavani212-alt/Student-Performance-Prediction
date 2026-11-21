@@ -46,4 +46,4 @@ The project uses a Random Forest Regressor to estimate student performance and p
    `python -m streamlit run app.py`
 
 ## Author
-MCA Student | AI/ML Enthusiast
+Hetvi Mavani | AI/ML Enthusiast
