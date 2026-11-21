@@ -1,0 +1,12 @@
+{
+    "MAE": 4.8015,
+    "RMSE": 6.1457,
+    "R2 Score": 0.7602,
+    "Training R2": 0.9481,
+    "Cross Validation MAE": 4.9229,
+    "Best Parameters": {
+        "max_depth": 8,
+        "min_samples_leaf": 2,
+        "n_estimators": 200
+    }
+}
